@@ -1,7 +1,7 @@
 var oscdBackpackChrome = {};
 
 // Hardcoding  webkiosk url pattern
-oscdBackpackChrome.url="https://webkiosk.jiit.ac.in/*";
+oscdBackpackChrome.url="https://webkiosk.jiit.ac.in/";
 
 oscdBackpackChrome.preferences = {};
 
